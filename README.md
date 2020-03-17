@@ -1,1 +1,2 @@
 # Zdalne repo treningowe
+xd
